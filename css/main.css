@@ -5,7 +5,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    border-top: 6px #AD91FF solid !important;
+    border-top: 0px #AD91FF solid !important;
     font-size: 16px;
 }
 
@@ -52,7 +52,7 @@ html {
 }
 
 .btn-primary {
-    background-color: #AD91FF!important
+    background-color: #4C96D7 !important
 }
 .btn-secondary {
     background-color: #2C2F33 !important
@@ -60,7 +60,7 @@ html {
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
-    background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
+    background-image: url("../assets/wavy-blurple-by-nouridio.svg") !important;
     background-position: bottom !important;
     background-size: 300% !important;
     background-repeat: no-repeat !important;
@@ -81,7 +81,7 @@ html {
 
 .features {
     text-align: center !important;
-    background: #AD91FF !important;
+    background: #4C96D7 !important;
     padding: 60px 50px !important;
     background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
     background-position: bottom !important;
@@ -118,7 +118,7 @@ html {
 .card-title {
     font-size: 28px !important;
     font-weight: 600 !important;
-    color: #AD91FF !important;
+    color: #4C96D7 !important;
 }
 
 .statistics {
